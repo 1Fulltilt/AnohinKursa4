@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610205331258",
+    "project_id": "avto-c0128",
+    "storage_bucket": "avto-c0128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610205331258:android:edb122ef19e1bfd0fbea03",
+        "android_client_info": {
+          "package_name": "com.example.misscar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GY4UoH7qwG2x604Ljlc20w90EDwG6u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
